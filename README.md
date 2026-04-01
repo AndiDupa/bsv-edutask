@@ -1,6 +1,6 @@
 # Edutask: a Training System for PA1417
 
-Used by: Daniel Abu Ramadan
+Used by: Daniel Abu Ramadan, Andi Dupa
 
 [![GitHub](https://img.shields.io/github/license/JulianFrattini/edutask)](./LICENSE)
 
